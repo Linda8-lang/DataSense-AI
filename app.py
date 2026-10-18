@@ -27,6 +27,10 @@ with st.sidebar:
     else:
         api_key = st.text_input("Enter Free Groq API Key:", type="password")
     st.markdown("[Get a free key here (no credit card)](https://console.groq.com)")
+    st.divider()
+    st.header("📁 About this project")
+    st.markdown("[View the product portfolio](https://linda8-lang.github.io/DataSense-AI/portfolio.html)")
+    st.markdown("[View the code on GitHub](https://github.com/Linda8-lang/DataSense-AI)")
 
 
 # Data Loaders
