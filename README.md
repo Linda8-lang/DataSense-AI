@@ -1,6 +1,6 @@
 # 📊 DataSense AI - Dataset & SQL Copilot
 
-**Live demo:** _coming soon_
+**Live demo:** _coming soon_ · **Product portfolio:** https://linda8-lang.github.io/DataSense-AI/portfolio.html
 
 DataSense AI turns raw spreadsheets into executive-ready insights. Upload a dataset, ask a question in plain English, and get a short summary plus a ready-to-run SQL query.
 
